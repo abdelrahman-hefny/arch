@@ -197,7 +197,20 @@ section h3 {
     background-color: #000;
     border-radius: 50%;
     position: fixed;
-    bottom: 40px;
+    bottom: 50px;
+    right: 20px;
+    border: 0;
+    cursor: pointer;
+    
+}
+.btn2 {font-size: 11px;
+
+    width: 30px;
+    height: 30px;
+    background-color: #000;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 15px;
     right: 20px;
     border: 0;
     cursor: pointer;
