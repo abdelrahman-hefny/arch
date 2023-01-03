@@ -259,3 +259,14 @@ tr:first-child td:nth-child(2) {
 .im {
     display: none;
 }
+.printt{
+    width: fit-content;
+    background-color: black;
+    color: white;
+    height: fit-content;
+    padding: 10px 10px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
