@@ -99,6 +99,7 @@ h1 {
 
 body {
     background-color: #ddd;
+    color: black;
 }
 
 .contener .ms {
@@ -137,13 +138,22 @@ h3 {
 }
 
 .q {
-    color: #3550ff;
+    color: #0075ff;
     font-size: 24px;
     text-shadow: 3px 3px #ddd;
     padding-top: 15px;
     display: block;
     font-weight: bold;
     word-spacing: 7px;
+}
+.s {
+    color: #00162f;
+    font-size: 22px;
+    text-shadow: 3px 3px #ddd;
+    padding-top: 5px;
+    display: block;
+    font-weight: 600;
+    word-spacing: 2px;
 }
 
 /* يونس  */
@@ -180,6 +190,11 @@ h3 {
 .lsz {
     margin: 10px 0 10px 0;
 
+}
+.tc{
+        font-weight: bold;
+
+    text-align: center
 }
 
 .lsz ul li a {
@@ -247,6 +262,10 @@ tr:first-child td:nth-child(2) {
     flex-wrap: wrap;
 
 }
+.b{
+    color: darkblue;
+    font-size: 20px;
+}
 
 .ms {
     font-weight: bold;
@@ -289,12 +308,14 @@ tr:first-child td:nth-child(2) {
 }
 
 
-.w10 {width: 100%;}
+
 .contener section {
     min-height: 100vh;
 
 }
-
+.w100{
+    width: 100%;
+}
 .w100 h3{
  margin: 0;
  padding: 0;
