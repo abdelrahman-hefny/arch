@@ -118,10 +118,6 @@ img {
     width: 100%;
 }
 
-.contener section {
-    min-height: 100vh;
-
-}
 
 h3+img {
     margin: 0 0 40px 0;
@@ -132,7 +128,7 @@ section div {
 
 }
 
-section h3 {
+h3 {
     margin-top: 20px;
     font-weight: 500;
     font-size: 22px;
@@ -282,4 +278,26 @@ tr:first-child td:nth-child(2) {
     margin: auto;
     margin-bottom: 10px;
     cursor: pointer;
+}
+
+.sor  tr td:first-child
+{
+    width: 10%;
+}
+.w10 td:first-child{
+    width: 10%;
+}
+
+
+.w10 {width: 100%;}
+.contener section {
+    min-height: 100vh;
+
+}
+.w100{
+    width: 100%;
+}
+.w100 h3{
+ margin: 0;
+ padding: 0;
 }
