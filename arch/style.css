@@ -320,3 +320,11 @@ tr:first-child td:nth-child(2) {
  margin: 0;
  padding: 0;
 }
+.c3 td:nth-child(2){
+    width: 10%;
+}
+.c3 td:nth-child(3){
+    width: 10%;
+} .c3 tr:first-child td:nth-child(2) {
+    width: 25%;
+}
